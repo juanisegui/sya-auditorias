@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sya-auditorias/static/css/main.2e5a1fc7.css",
+    "main.js": "/sya-auditorias/static/js/main.bc83f652.js",
+    "index.html": "/sya-auditorias/index.html",
+    "main.2e5a1fc7.css.map": "/sya-auditorias/static/css/main.2e5a1fc7.css.map",
+    "main.bc83f652.js.map": "/sya-auditorias/static/js/main.bc83f652.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e5a1fc7.css",
+    "static/js/main.bc83f652.js"
+  ]
+}
